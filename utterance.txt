@@ -1,0 +1,4 @@
+AMAZON.HiIntent	hi
+AMAZON.HiIntent	hello
+AMAZON.HiIntent	hey
+AMAZON.HiIntent	hi there
